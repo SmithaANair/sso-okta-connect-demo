@@ -3,15 +3,15 @@
   <servers>
     <server>
       <id>public</id>
-      <username>eits-gpd-applify</username>
-      <password>AP3hqAMDeqHWYGVpwaruoc35XvQypuYY74Gsw5</password>
+      <username>user</username>
+      <password>pwd</password>
     </server>
   </servers>
   <mirrors>
     <mirror>
       <id>public</id>
       <mirrorOf>*</mirrorOf>
-      <url>https://artifacts.experian.local/artifactory/public-repositories/</url>
+      <url>url</url>
     </mirror>
   </mirrors>
 </settings>
